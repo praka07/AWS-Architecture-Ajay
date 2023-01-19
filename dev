@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T07:03:56.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E1e3EPAxO7eWLGJDQKE5" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T07:23:42.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sCbMVi_bFKuxUrSje5SP" version="20.8.0" type="github">
   <diagram id="4hy5c6nUzvAz7V0r_2s1" name="Page-1">
     <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,12 @@
         </mxCell>
         <mxCell id="e8IyntJsyZ7bCLRGpjRz-19" value="SprinBoot-API" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;" parent="e8IyntJsyZ7bCLRGpjRz-4" vertex="1">
           <mxGeometry x="410" y="145" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="AxSy3pxVAdQley9v5XM9-1" value="t2.micro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e8IyntJsyZ7bCLRGpjRz-4">
+          <mxGeometry x="480" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxSy3pxVAdQley9v5XM9-2" value="t2.micro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e8IyntJsyZ7bCLRGpjRz-4">
+          <mxGeometry x="488" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e8IyntJsyZ7bCLRGpjRz-31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="e8IyntJsyZ7bCLRGpjRz-1" vertex="1">
           <mxGeometry x="-10" y="240" width="20" height="20" as="geometry" />
